@@ -1,1 +1,1 @@
-game.Workspace:Destroy()
+game.Workspace.Lobby:Destroy()
